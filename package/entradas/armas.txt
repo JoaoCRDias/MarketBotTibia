@@ -1,0 +1,390 @@
+Angelic Axe
+Assassin Dagger
+Berserker
+Blacksteel Sword
+Blade of Corruption
+Blade of Destruction
+Bloody Edge
+Bone Sword
+Bright Sword
+Broadsword
+Carlin Sword
+Cobra Sword
+Combat Knife
+Cowtana
+Crimson Sword
+Crimson Sword (Rashid)
+Crude Umbral Blade
+Crude Umbral Slayer
+Crystal Sword
+Crystalline Sword
+Dagger
+Demonrage Sword
+Djinn Blade
+Dragon Slayer
+Eldritch Claymore
+Emerald Sword
+Epee
+Falcon Longsword
+Fire Sword
+Giant Sword
+Gilded Eldritch Claymore
+Glooth Blade
+Gnome Sword
+Haunted Blade
+Havoc Blade
+Heavy Machete
+Ice Rapier
+Impaler of the Igniter
+Incredible Mumpiz Slayer
+Jagged Sword
+Katana
+Knife
+Lion Longsword
+Longsword
+Machete
+Magic Longsword
+Magic Sword
+Mean Knight Sword
+Mercenary Sword
+Mystic Blade
+Nightmare Blade
+Pharaoh Sword
+Poet\'s Fencing Quill
+Pointed Rabbitslayer
+Poison Dagger
+Rapier
+Ratana
+Relic Sword
+Ron the Ripper\'s Sabre
+Runed Sword
+Sabre
+Sai
+Scimitar
+Serpent Sword
+Shimmer Sword
+Shiny Blade
+Short Sword
+Silver Dagger
+Slayer of Destruction
+Soulcutter
+Soulshredder
+Spike Sword
+Summerblade
+Sword
+Tagralt Blade
+Templar Scytheblade
+Thaian Sword
+The Avenger
+The Calamity
+The Epiphany
+The Justice Seeker
+Twiceslicer
+Twin Hooks
+Two Handed Sword
+Umbral Blade
+Umbral Master Slayer
+Umbral Masterblade
+Umbral Slayer
+Warlord Sword
+Winterblade
+Wooden Sword
+Wyvern Fang
+Zaoan Sword
+Abyss Hammer
+Amber Staff
+Arcane Staff
+Banana Staff
+Battle Hammer
+Blessed Sceptre
+Bone Club
+Bonebreaker
+Brutetamer\'s Staff
+Chaos Mace
+Clerical Mace
+Club
+Club of the Fury
+Cobra Club
+Cranial Basher
+Crowbar
+Crude Umbral Hammer
+Crude Umbral Mace
+Crystal Mace
+Daramian Mace
+Dark Trinity Mace
+Deepling Squelcher
+Deepling Staff
+Demonbone
+Diamond Sceptre
+Drachaku
+Dragon Hammer
+Dragonbone Staff
+Eldritch Warmace
+Energized Demonbone
+Falcon Mace
+Ferumbras\' Staff (Club)
+Furry Club
+Giant Smithhammer
+Gilded Eldritch Warmace
+Glooth Club
+Glooth Whip
+Glutton\'s Mace
+Hammer of Destruction
+Hammer of Prophecy
+Hammer of Wrath
+Heavy Mace
+Iron Hammer
+Jade Hammer
+Jungle Flail
+Lich Staff
+Life Preserver
+Light Mace
+Lion Hammer
+Lunar Staff
+Mace
+Mace of Destruction
+Maimer
+Mallet Handle
+Mammoth Whopper
+Metal Bat
+Moohtant Cudgel
+Morning Star
+Mortal Mace
+Mycological Mace
+Northern Star
+Obsidian Truncheon
+Ogre Klubba
+One Hit Wonder
+Onyx Flail
+Orcish Maul
+Ornate Mace
+Pair of Iron Fists
+Queen\'s Sceptre
+Resizer
+Rotten Demonbone
+Sapphire Hammer
+Scythe
+Shadow Sceptre
+Silver Mace
+Skull Staff
+Skullcrusher
+Snake God\'s Sceptre
+Soulcrusher
+Soulmaimer
+Spiked Squelcher
+Spiky Club
+Staff
+Stale Bread of Ancientness
+Strange Mallet
+Studded Club
+Sulphurous Demonbone
+Swampling Club
+Taurus Mace
+The Stomper
+Thunder Hammer
+Umbral Hammer
+Umbral Mace
+Umbral Master Hammer
+Umbral Master Mace
+Unliving Demonbone
+War Hammer
+Chain Bolter
+Cobra Crossbow
+Crossbow
+Crossbow of Destruction
+Crude Umbral Crossbow
+Crystal Crossbow
+Modified Crossbow
+Ornate Crossbow
+Rift Crossbow
+Royal Crossbow
+Soulpiercer
+The Devileye
+The Ironworker
+Thorn Spitter
+Triple Bolt Crossbow
+Umbral Crossbow
+Umbral Master Crossbow
+Cobra Wand
+Deepling Ceremonial Dagger
+Deepling Fork
+Dream Blossom Staff
+Eldritch Wand
+Energized Limb
+Falcon Wand
+Ferumbras\' Staff (Wand)
+Gilded Eldritch Wand
+Jungle Wand
+Lion Wand
+Shimmer Wand
+Sorc and Druid Staff
+Soultainter
+The Scorcher
+Wand of Cosmic Energy
+Wand of Darkness
+Wand of Decay
+Wand of Defiance
+Wand of Destruction
+Wand of Dimensions
+Wand of Draconia
+Wand of Dragonbreath
+Wand of Everblazing
+Wand of Inferno
+Wand of Starstorm
+Wand of Voodoo
+Wand of Vortex
+Cobra Rod
+Deepling Ceremonial Dagger
+Deepling Fork
+Dream Blossom Staff
+Eldritch Rod
+Energized Limb
+Falcon Rod
+Gilded Eldritch Rod
+Glacial Rod
+Hailstorm Rod
+Jungle Rod
+Lion Rod
+Moonlight Rod
+Muck Rod
+Necrotic Rod
+Northwind Rod
+Ogre Scepta
+Rod of Destruction
+Shimmer Rod
+Snakebite Rod
+Soulhexer
+Springsprout Rod
+Terra Rod
+The Chiller
+Underworld Rod
+Bow
+Bow of Cataclysm
+Bow of Destruction
+Composite Hornbow
+Crude Umbral Bow
+Eldritch Bow
+Elethriel\'s Elemental Bow
+Elvish Bow
+Falcon Bow
+Gilded Eldritch Bow
+Hive Bow
+Icicle Bow
+Jungle Bow
+Lion Longbow
+Living Vine Bow
+Musician\'s Bow
+Mycological Bow
+Rift Bow
+Shimmer Bow
+Silkweaver Bow
+Soulbleeder
+Umbral Bow
+Umbral Master Bow
+Warsinger Bow
+Yol\'s Bow
+Axe
+Axe of Carving
+Axe of Carving (Charged)
+Axe of Carving (Heavily Charged)
+Axe of Carving (Overcharged)
+Axe of Destruction
+Axe of Mayhem
+Axe of Mayhem (Charged)
+Axe of Mayhem (Heavily Charged)
+Axe of Mayhem (Overcharged)
+Axe of Remedy
+Axe of Remedy (Charged)
+Axe of Remedy (Heavily Charged)
+Axe of Remedy (Overcharged)
+Barbarian Axe
+Battle Axe
+Beastslayer Axe
+Butcher\'s Axe
+Chopper of Carving
+Chopper of Carving (Charged)
+Chopper of Carving (Heavily Charged)
+Chopper of Carving (Overcharged)
+Chopper of Destruction
+Chopper of Mayhem
+Chopper of Mayhem (Charged)
+Chopper of Mayhem (Heavily Charged)
+Chopper of Mayhem (Overcharged)
+Chopper of Remedy
+Chopper of Remedy (Charged)
+Chopper of Remedy (Heavily Charged)
+Chopper of Remedy (Overcharged)
+Cobra Axe
+Crude Umbral Axe
+Crude Umbral Chopper
+Crystalline Axe
+Daramian Axe
+Daramian Waraxe
+Deepling Axe
+Demonwing Axe
+Double Axe
+Dragon Lance
+Drakinata
+Dreaded Cleaver
+Dwarven Axe
+Eldritch Greataxe
+Execowtioner Axe
+Executioner
+Falcon Battleaxe
+Farmer\'s Avenger
+Fire Axe
+Gilded Eldritch Greataxe
+Glooth Axe
+Glorious Axe
+Golden Axe
+Golden Sickle
+Great Axe
+Guardian Axe
+Guardian Halberd
+Halberd
+Hand Axe
+Hatchet
+Headchopper
+Heavy Trident
+Hellforged Axe
+Heroic Axe
+Hive Scythe
+Ice Hatchet
+Impaler
+Knight Axe
+Lion Axe
+Mino Lance
+Mythril Axe
+Naginata
+Noble Axe
+Obsidian Lance
+Ogre Choppa
+Orcish Axe
+Ornamented Axe
+Phantasmal Axe
+Plague Bite
+Ravager\'s Axe
+Ravenwing
+Reaper\'s Axe
+Rift Lance
+Ripper Lance
+Royal Axe
+Ruthless Axe
+Scythe of the Reaper
+Sickle
+Solar Axe
+Soulbiter
+Souleater (Axe)
+Steel Axe
+Stonecutter Axe
+Throwing Axe
+Titan Axe
+Twin Axe
+Umbral Axe
+Umbral Chopper
+Umbral Master Axe
+Umbral Master Chopper
+Vile Axe
+War Axe
+Warrior\'s Axe
+Zaoan Halberd
